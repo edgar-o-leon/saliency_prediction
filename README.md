@@ -16,8 +16,13 @@ S3 bucket address
 s3://sagemaker-us-west-2-054037098477/inference2-python-2024-11-12/model.tar.gz
 
 Sagemaker Environmental variables: 
+
 SAGEMAKER_PROGRAM: inference.py
+
 SAGEMAKER_SUBMIT_DIRECTORY: /opt/ml/model/code
+
 SAGEMAKER_CONTAINER_LOG_LEVEL: 20
+
 SAGEMAKER_REGION: us-west-2
+
 MMS_DEFAULT_RESPONSE_TIMEOUT:500
