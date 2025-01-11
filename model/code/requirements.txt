@@ -1,0 +1,6 @@
+onnxruntime==1.15.1
+numpy<2.0
+#torchvision==0.20.0+cu121
+pillow==10.4.0
+opencv-python-headless==4.10.0.84
+#torch==2.5.0+cu121
